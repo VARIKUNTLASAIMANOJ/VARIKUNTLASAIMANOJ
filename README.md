@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI Developer & Full Stack Engineer** passionate about:
+I'm an **AI Developer & Web Developer** passionate about:
 
 - 🚀 Building **AI & Web-Based Solutions**  
 - 🧠 Exploring **Generative AI & LLM Fine-Tuning**  
