@@ -51,9 +51,16 @@ I'm an **AI & Web Developer** passionate about:
 
 ## ⚡ Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&theme=tokyo-night&bg_color=0d1117&hide_border=true&custom_title=My%20Contribution%20Graph&area=true&hide_title=false&hide_border=false" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&pointSize=6)](https://github.com/VARIKUNTLASAIMANOJ)
+
+*Note: Hover tooltips are only available in the GitHub profile contribution graph.*
+
+---
+
+## 💡 Code Philosophy
+
+> **"Write clean, scalable, and maintainable code.  
+Prioritize readability, real-world impact, and continuous learning."**
 
 ---
 
