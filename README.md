@@ -16,7 +16,7 @@
 I'm an **AI Developer & Web Developer** passionate about:
 
 - 🚀 Building **AI & Web-Based Solutions**  
-- 🧠 Exploring **Generative AI & LLM Fine-Tuning**  
+- 🧠 Learning **Generative AI & LLM Fine-Tuning**  
 - 🎯 Creating **real-world projects** with practical use cases  
 - 🧑‍🎓 Currently leveling up in **AI Deployment**
 
