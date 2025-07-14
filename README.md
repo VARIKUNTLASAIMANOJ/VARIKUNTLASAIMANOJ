@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-link.com/banner.png" alt="Hero Banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
@@ -69,4 +73,3 @@ I'm an **AI & Web Developer** passionate about:
 <p align="center">
   <i><b>"Keep Building. Keep Learning. Stay Curious."</b></i>
 </p>
-
