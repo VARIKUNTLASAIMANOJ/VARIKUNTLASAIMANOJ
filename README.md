@@ -49,14 +49,6 @@ I'm an **AI & Web Developer** passionate about:
 
 ---
 
-## ⚡ Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&pointSize=6)](https://github.com/VARIKUNTLASAIMANOJ)
-
-*Note: Hover tooltips are only available in the GitHub profile contribution graph.*
-
----
-
 ## 💡 Code Philosophy
 
 > **"Write clean, scalable, and maintainable code.  
@@ -75,3 +67,4 @@ Prioritize readability, real-world impact, and continuous learning."**
 <p align="center">
   <i><b>"Keep Building. Keep Learning. Stay Curious."</b></i>
 </p>
+
