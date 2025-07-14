@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Visitors&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ?label=Last%20Updated&color=green&style=for-the-badge" />
 </p>
 
 ---
