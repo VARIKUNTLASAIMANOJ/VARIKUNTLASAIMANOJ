@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Hero Banner" width="100%" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
@@ -56,7 +52,7 @@ I'm an **AI & Web Developer** passionate about:
 ## ⚡ Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&theme=tokyo-night&bg_color=0d1117&hide_border=true&custom_title=My%20Contribution%20Graph&area=true&hide_title=false&hide_border=false" />
 </p>
 
 ---
