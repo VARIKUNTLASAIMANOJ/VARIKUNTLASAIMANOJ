@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=AI+Developer;Web+Developer;Tech+Explorer;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Web+Developer;Building+Scalable+AI+Solutions;Exploring+the+Future+of+Tech;Code.+Build.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Visitors&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Profile%20Views&color=0e75b6&style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ?label=Last%20Updated&color=green&style=flat-square" />
 </p>
 
@@ -13,10 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Passionate about **AI, Web Development, and Automation**
-- 🧠 Continuously exploring new technologies and innovative solutions
-- 🎯 Building **real-world projects** that solve real problems
-- 🌱 Currently learning **Generative AI & LLM Fine-Tuning**
+I'm an **AI Developer & Full Stack Engineer** passionate about:
+
+- 🚀 Building **AI & Web-Based Solutions**  
+- 🧠 Exploring **Generative AI & LLM Fine-Tuning**  
+- 🎯 Creating **real-world projects** with practical use cases  
+- 🧑‍🎓 Currently leveling up in **MLOps & AI Deployment**
 
 ---
 
@@ -44,19 +46,19 @@
 
 <p align="center">
   <a href="https://github.com/VARIKUNTLASAIMANOJ/QuizWise">
-    <img src="https://img.shields.io/badge/QuizWise-121212?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/QuizWise-Interactive%20AI%20Quiz%20App-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a><br>
   <a href="https://github.com/VARIKUNTLASAIMANOJ/Nova-AI">
-    <img src="https://img.shields.io/badge/Nova_AI-121212?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Nova_AI-LLM%20Powered%20Assistant-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a><br>
   <a href="https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon">
-    <img src="https://img.shields.io/badge/Beyond_Horizon-121212?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Beyond_Horizon-Space%20Exploration%20Blog-121212?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats & Streak
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VARIKUNTLASAIMANOJ&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -77,7 +79,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
