@@ -65,7 +65,6 @@ I'm an **AI & Web Developer** passionate about:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikuntlasaimanoj@gmail.com)
-- [![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARIKUNTLASAIMANOJ)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white)](https://vsmportfolio.vercel.app/)
 
 ---
