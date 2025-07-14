@@ -40,6 +40,30 @@
 
 ---
 
+## 📂 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/VARIKUNTLASAIMANOJ/QuizWise">
+    <img src="https://img.shields.io/badge/Your_Project_1-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/VARIKUNTLASAIMANOJ/Nova-AI">
+    <img src="https://img.shields.io/badge/Your_Project_2-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon">
+    <img src="https://img.shields.io/badge/Your_Project_3-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VARIKUNTLASAIMANOJ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,6 +91,22 @@
   <a href="https://skyline.github.com/VARIKUNTLASAIMANOJ/2024" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Skyline-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+---
+
+## 📈 Developer Metrics
+
+<p align="center">
+  <img src="https://github.com/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ/blob/main/github-metrics.svg" />
+</p>
+
+---
+
+## ⏱️ Wakatime Stats (Optional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight"/>
 </p>
 
 ---
