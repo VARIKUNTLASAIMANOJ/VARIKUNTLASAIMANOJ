@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=435&lines=AI+Developer;Full-Stack+Engineer;Tech+Explorer;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=435&lines=AI+Developer;Web+Developer;Tech+Explorer;Code.+Build.+Innovate." alt="Typing SVG" />
 </p>
 
 ---
