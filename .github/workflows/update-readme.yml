@@ -1,0 +1,31 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Generate GitHub Stats
+      uses: anuraghazra/github-readme-stats@master
+      with:
+        username: VARIKUNTLASAIMANOJ
+        cache_seconds: 7200   # Cache for 2 hours
+
+    - name: Generate Streak Stats
+      uses: DenverCoder1/github-readme-streak-stats@main
+      with:
+        user: VARIKUNTLASAIMANOJ
+
+    - name: Generate Contribution Graph
+      uses: Ashutosh00710/github-readme-activity-graph@master
+      with:
+        username: VARIKUNTLASAIMANOJ
+        theme: github-dark
