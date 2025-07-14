@@ -77,16 +77,6 @@
 
 ---
 
-## 🌌 GitHub Skyline (3D Contribution Animation)
-
-<p align="center">
-  <a href="https://skyline.github.com/VARIKUNTLASAIMANOJ/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Skyline-6e40c9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
