@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Web+Developer;Building+Scalable+AI+Solutions;Exploring+the+Future+of+Tech;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Exploring+the+Future+of+Tech;Code.+Build.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 I'm an **AI & Web Developer** passionate about:
 
 - 🚀 Building **AI-Powered & Full Stack Applications**  
-- 🧠 Learning **Generative AI & LLM Fine-Tuning**  
+- 🧠 Learning **Generative AI & LLM Models**  
 - 🎯 Developing **real-world solutions** that matter  
 - 🧑‍🎓 Currently focusing on **AI Deployment & Scalability**
 
