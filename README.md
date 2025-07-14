@@ -95,22 +95,6 @@
 
 ---
 
-## 📈 Developer Metrics
-
-<p align="center">
-  <img src="https://github.com/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ/blob/main/github-metrics.svg" />
-</p>
-
----
-
-## ⏱️ Wakatime Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
