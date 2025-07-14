@@ -24,47 +24,19 @@ I'm an **AI & Web Developer** passionate about:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VARIKUNTLASAIMANOJ/QuizWise">
-        <img src="https://img.shields.io/badge/QuizWise-Interactive%20AI%20Quiz%20App-121212?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br>
-      <sub><b>QuizWise</b>: AI-based dynamic quiz generation platform.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VARIKUNTLASAIMANOJ/Nova-AI">
-        <img src="https://img.shields.io/badge/Nova_AI-LLM%20Powered%20Assistant-121212?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br>
-      <sub><b>Nova AI</b>: Conversational AI with real-time data processing.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon">
-        <img src="https://img.shields.io/badge/Beyond_Horizon-Space%20Exploration%20Blog-121212?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br>
-      <sub><b>Beyond Horizon</b>: A blog for astronomy and space enthusiasts.</sub>
-    </td>
-  </tr>
-</table>
+- 🔍 [**QuizWise**](https://github.com/VARIKUNTLASAIMANOJ/QuizWise) — AI-based interactive quiz generation platform  
+- 🤖 [**Nova AI**](https://github.com/VARIKUNTLASAIMANOJ/Nova-AI) — LLM-powered conversational assistant  
+- 🌌 [**Beyond Horizon**](https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon) — Space exploration blog & knowledge hub  
 
 ---
 
@@ -91,12 +63,10 @@ I'm an **AI & Web Developer** passionate about:
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:varikuntlasaimanoj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/VARIKUNTLASAIMANOJ"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://vsmportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varikuntlasaimanoj@gmail.com)
+- [![GitHub](https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VARIKUNTLASAIMANOJ)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white)](https://vsmportfolio.vercel.app/)
 
 ---
 
