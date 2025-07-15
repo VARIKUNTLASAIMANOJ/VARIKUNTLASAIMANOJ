@@ -1,4 +1,4 @@
- <h1 align="center" style="font-weight: bold; font-size: 3rem;">Hey 👋, I'm Varikuntla Sai Manoj</h1>
+<h1 align="center" style="font-weight: bold; font-size: 3rem;">Hey 👋, I'm Varikuntla Sai Manoj</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Exploring+the+Future+of+Tech;Code.+Build.+Innovate." alt="Typing SVG" />
@@ -6,11 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Profile%20Views&color=00F58D&style=flat-square" />
-</p>
-
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/assets/main/wave-top.svg" alt="wave divider" width="100%" />
 </p>
 
 ---
@@ -24,11 +19,6 @@ I'm an **AI & Full Stack Developer** passionate about:
 - 🎯 Developing **real-world solutions** that matter  
 - 🧑‍🎓 Currently focusing on **AI Deployment & Scalability**
 
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/assets/main/wave-bottom.svg" alt="wave divider" width="100%" />
-</p>
-
 ---
 
 ## 🛠️ Tech & Tools
@@ -41,11 +31,6 @@ I'm an **AI & Full Stack Developer** passionate about:
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117&color=0D1117"/>
 </p>
 
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/assets/main/wave-top.svg" alt="wave divider" width="100%" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -53,11 +38,6 @@ I'm an **AI & Full Stack Developer** passionate about:
 - 🔍 <b>[QuizWise](https://github.com/VARIKUNTLASAIMANOJ/QuizWise)</b> — AI-based interactive quiz generation platform  
 - 🤖 <b>[Nova AI](https://github.com/VARIKUNTLASAIMANOJ/Nova-AI)</b> — LLM-powered conversational assistant  
 - 🌌 <b>[Beyond Horizon](https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon)</b> — Space exploration blog & knowledge hub  
-
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/assets/main/wave-bottom.svg" alt="wave divider" width="100%" />
-</p>
 
 ---
 
@@ -78,11 +58,6 @@ I'm an **AI & Full Stack Developer** passionate about:
 
 > <b><i>"Write clean, scalable, and maintainable code.<br>
 Prioritize readability, real-world impact, and continuous learning."</i></b>
-
-<!-- Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/assets/main/wave-top.svg" alt="wave divider" width="100%" />
-</p>
 
 ---
 
