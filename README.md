@@ -23,12 +23,12 @@ I'm an **AI & Full Stack Developer** passionate about:
 
 ## 🛠️ Tech & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/-FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F58D&labelColor=0D1117&color=0D1117"/>
+  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117&color=0D1117"/>
 </p>
 
 ---
@@ -44,12 +44,12 @@ I'm an **AI & Full Stack Developer** passionate about:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARIKUNTLASAIMANOJ&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F58D&icon_color=00F58D" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARIKUNTLASAIMANOJ&theme=radical&hide_border=true&background=0D1117&stroke=00F58D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VARIKUNTLASAIMANOJ&show_icons=true&theme=github_dark&hide_border=true&title_color=00F58D&icon_color=00F58D&bg_color=0D1117&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARIKUNTLASAIMANOJ&theme=github-dark&hide_border=true&background=0D1117&stroke=00F58D&border_radius=12" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIKUNTLASAIMANOJ&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F58D" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIKUNTLASAIMANOJ&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F58D&border_radius=12" width="40%" />
 </p>
 
 ---
@@ -63,10 +63,16 @@ Prioritize readability, real-world impact, and continuous learning."</i></b>
 
 ## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:varikuntlasaimanoj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://vsmportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0D1117"/>
+  </a>
+  <a href="mailto:varikuntlasaimanoj@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=0D1117"/>
+  </a>
+  <a href="https://vsmportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-00C897?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117&color=0D1117"/>
+  </a>
 </p>
 
 ---
