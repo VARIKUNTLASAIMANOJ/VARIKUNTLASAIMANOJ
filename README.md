@@ -24,7 +24,7 @@ I'm an **AI & Full Stack Developer** passionate about:
 
 ## 🛠️ Tech & Tools
 
-<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FF8C00?style=flat-square&logo=huggingface&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-5D3FD3?style=flat-square&logo=pinecone&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-MLflow-023430?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
 
 ---
 
@@ -33,7 +33,6 @@ I'm an **AI & Full Stack Developer** passionate about:
 - 🔍 [**QuizWise**](https://github.com/VARIKUNTLASAIMANOJ/QuizWise) — AI-based interactive quiz generation platform  
 - 🤖 [**Nova AI**](https://github.com/VARIKUNTLASAIMANOJ/Nova-AI) — LLM-powered conversational assistant  
 - 🌌 [**Beyond Horizon**](https://github.com/VARIKUNTLASAIMANOJ/Beyond-Horizon) — Space exploration blog & knowledge hub  
-- 🧠 [**GenAI Toolkit**](https://github.com/VARIKUNTLASAIMANOJ) *(Coming Soon)* — Templates for Generative AI & LLM Deployments
 
 ---
 
