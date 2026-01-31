@@ -111,7 +111,7 @@ Focus on real-world impact, readability, and continuous learning.”**
   <a href="mailto:varikuntlasaimanoj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
-  <a href="https://vsmportfolio.vercel.app/">
+  <a href="https://saimanojvarikuntla.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C897"/>
   </a>
 </p>
