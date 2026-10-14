@@ -3,7 +3,7 @@ Hey 👋, I'm Varikuntla Sai Manoj
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Exploring+Generative+AI+%26+LLMs;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full+Stack+Developer;AI+Agents;Exploring+Generative+AI+%26+LLMs;Code.+Build.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
