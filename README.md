@@ -1,123 +1,121 @@
-<h1 align="center" style="font-weight: bold; font-size: 3rem;">
-Hey 👋, I'm Varikuntla Sai Manoj
-</h1>
-
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F58D&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Full+Stack+Developer;Building+Scalable+AI+Solutions;Exploring+Generative+AI+%26+LLMs;Code.+Build.+Innovate." alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F58D&height=220&section=header&text=Sai%20Manoj%20Varikuntla&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=56" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Profile%20Views&color=00F58D&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00F58D&center=true&vCenter=true&width=650&lines=%3E+Turning+LLMs+into+products+people+actually+use;%3E+RAG+pipelines+%E2%80%A2+AI+agents+%E2%80%A2+Full+stack+apps;%3E+Production-ready+%3E+demo-ready;%3E+git+commit+-m+%22keep+building%22" alt="Typing SVG" />
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-I’m an **AI Engineer & Full Stack Developer** passionate about building intelligent, scalable, and real-world impactful systems.
-
-- 🚀 Developing **AI-Powered & Full Stack Applications**
-- 🧠 Exploring **Generative AI, RAG, and LLM systems**
-- 📊 Applying **Data Analytics & Machine Learning** to solve problems
-- ☁️ Learning **AI deployment, cloud & scalability**
-- 🎯 Focused on **production-ready solutions**, not demos
-
----
-
-## 🛠️ Tech & Tools
-
-### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange"/>
-</p>
-
-### 📊 Data Analytics & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🤖 AI Frameworks & Concepts
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <a href="https://saimanojvarikuntla.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F58D?style=flat-square&logo=vercel&logoColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:varikuntlasaimanoj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=VARIKUNTLASAIMANOJ&label=Visitors&color=0D1117&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### `$ whoami`
 
-- 🔍 **QuizWise**  
-  AI-based interactive quiz generation platform using NLP and ML
+```python
+class SaiManoj:
+    role       = "AI Engineer & Full Stack Developer"
+    builds     = ["AI-powered web apps", "RAG systems", "LLM assistants"]
+    exploring  = ["Generative AI", "LLM agents", "Cloud deployment & scaling"]
+    principle  = "If it only works in a notebook, it isn't done yet."
 
-- 🤖 **Nova AI**  
-  LLM-powered conversational assistant with context awareness
+    def say_hi(self):
+        print("Thanks for dropping by — let's build something useful together!")
 
-- 🌌 **Beyond Horizon**  
-  Space exploration blog & knowledge hub with modern frontend
+SaiManoj().say_hi()
+```
+
+<table>
+  <tr>
+    <td>🔭 <b>Working on</b></td>
+    <td>AI-powered full stack apps with LLMs at the core</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Advanced RAG, agentic workflows, cloud deployment on GCP</td>
+  </tr>
+  <tr>
+    <td>🤝 <b>Open to</b></td>
+    <td>AI / Full Stack roles, internships, and open-source collaboration</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>LangChain, RAG, React, Python, data analytics</td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+### 🧰 Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VARIKUNTLASAIMANOJ&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=00F58D&icon_color=00F58D&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARIKUNTLASAIMANOJ&theme=github-dark&hide_border=true&background=0D1117&stroke=00F58D&ring=00F58D&fire=00F58D" width="48%" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,html,css,mysql,git,github,postman,gcp&perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIKUNTLASAIMANOJ&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F58D" width="40%" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
-## 💡 Code Philosophy
+### 🚀 Things I've Built
 
-> **“Write clean, scalable, and maintainable code.  
-Focus on real-world impact, readability, and continuous learning.”**
+<!-- TODO: replace <repo-name> with your actual repository names and add live demo links if you have them -->
+
+| Project | What it does | Built with | Links |
+|:--|:--|:--|:--|
+| 🧠 **QuizWise** | Generates interactive quizzes from any topic or content using NLP | Python · NLP · ML | [Code](https://github.com/VARIKUNTLASAIMANOJ/<repo-name>) |
+| 🤖 **Nova AI** | Conversational assistant that remembers context across a chat | Python · LLMs · LangChain | [Code](https://github.com/VARIKUNTLASAIMANOJ/<repo-name>) |
+| 🌌 **Beyond Horizon** | Space exploration blog and knowledge hub | React · HTML · CSS | [Code](https://github.com/VARIKUNTLASAIMANOJ/<repo-name>) |
 
 ---
 
-## 🌐 Let’s Connect
+### 📈 GitHub Pulse
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/varikuntla-sai-manoj-082b782b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:varikuntlasaimanoj@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
-  </a>
-  <a href="https://saimanojvarikuntla.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C897"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=VARIKUNTLASAIMANOJ&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F58D&icon_color=00F58D&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARIKUNTLASAIMANOJ&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F58D&text_color=C9D1D9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VARIKUNTLASAIMANOJ&bg_color=0D1117&color=C9D1D9&line=00F58D&point=FFFFFF&area=true&area_color=00F58D&hide_border=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VARIKUNTLASAIMANOJ/VARIKUNTLASAIMANOJ/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
 
+<details>
+<summary><b>📜 My dev principles (click to expand)</b></summary>
+<br>
+
+1. **Ship it, then shape it** — a working version beats a perfect plan.
+2. **Readable > clever** — code is read far more often than it's written.
+3. **Measure the AI** — an LLM feature isn't done until you know when it fails.
+4. **Stay curious** — every bug is a lesson in disguise.
+
+</details>
+
+---
+
 <p align="center">
-  <i><b>“Keep Building. Keep Learning. Stay Curious.”</b></i>
+  <i>Keep building. Keep learning. Stay curious.</i> ⚡
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F58D,100:0D1117&height=120&section=footer" />
 </p>
